@@ -1,2 +1,5 @@
-# Advent of Code 2021
-Solving the puzzles in [Advent of Code 2021](https://adventofcode.com/2021) and practising using Java.
+# Advent of Code
+
+My solutions to the puzzles in [Advent of Code](https://adventofcode.com/). 
+
+Languages used: Java (2021) and C++ (2022)
