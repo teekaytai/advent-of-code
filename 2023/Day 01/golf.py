@@ -1,0 +1,1 @@
+print(sum(10*(f:=lambda i:max((max((t:=l[::i]).rfind(str(n)),t.rfind('? one two three four five six seven eight nine'.split()[n][::i])),n)for n in range(10))[1])(-1)+f(1)for l in open(0)))
