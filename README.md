@@ -1,5 +1,9 @@
 # Advent of Code
 
-My solutions to the puzzles in [Advent of Code](https://adventofcode.com/). 
+My solutions to the puzzles in [Advent of Code](https://adventofcode.com/).
 
-Languages used: Java (2021) and C++ (2022)
+| Year | Languages |
+|:----:|:---------:|
+| 2021 |   Java    |
+| 2022 |    C++    |
+| 2023 |  Python   |
