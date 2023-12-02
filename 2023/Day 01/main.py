@@ -18,8 +18,14 @@ for line in sys.stdin:
     max_idx = -INF
     right_num = -1
     for num, num_name in enumerate(NUM_NAMES, start=1):
+        # Part 1
+        # lo_idx = find(line, str(num))
+        # hi_idx = rfind(line, str(num))
+
+        # Part 2
         lo_idx = min(find(line, str(num)), find(line, num_name))
         hi_idx = max(rfind(line, str(num)), rfind(line, num_name))
+
         if lo_idx < min_idx:
             min_idx = lo_idx
             left_num = num
@@ -27,4 +33,5 @@ for line in sys.stdin:
             max_idx = hi_idx
             right_num = num
     total += 10 * left_num + right_num
+
 print(total)

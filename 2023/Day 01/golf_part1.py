@@ -1,0 +1,1 @@
+print(sum(eval((d:=[c for c in l if'a'>c])[0]+d[-2])for l in open(0)))
