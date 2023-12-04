@@ -4,3 +4,4 @@ Python is easily my strongest programming language, so for an extra challenge I'
 |:---:|:------------------:|-------------------------|---------|
 |  1  |      70, 188       | Brute Force, Rabin Karp |         |
 |  2  |      117, 137      | Parsing, Regex          |         |
+|  3  |      215, 300      |                         |         |
