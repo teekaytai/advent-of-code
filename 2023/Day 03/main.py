@@ -1,7 +1,10 @@
 import sys
 
+EMPTY_SYMBOL = '.'
+GEAR_SYMBOL = '*'
+
 def is_symbol(char: str) -> bool:
-    return not (char.isdigit() or char == '.')
+    return not (char.isdigit() or char == EMPTY_SYMBOL)
 
 schematic = [list(line.strip()) for line in sys.stdin]
 H = len(schematic)
@@ -29,7 +32,7 @@ for r, row in enumerate(schematic):
                 if C < 0 or C >= W or not is_symbol(schematic[R][C]):
                     continue
                 is_part_num = True
-                if schematic[R][C] == '*':
+                if schematic[R][C] == GEAR_SYMBOL:
                     gear_numbers[R][C].append(num)
         if is_part_num:
             total += num
