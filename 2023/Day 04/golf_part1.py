@@ -1,0 +1,1 @@
+print(sum((1<<len(a:=l.split())-len({*a}))//2for l in open(0)))
