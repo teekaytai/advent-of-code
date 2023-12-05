@@ -6,3 +6,4 @@ Python is easily my strongest programming language, so for an extra challenge I'
 |  2  |      117, 136      | Parsing, Regex          |         |
 |  3  |      215, 300      | 2D Array                |         |
 |  4  |      63, 114       | DP                      |         |
+|  5  |      192, 294      | Intervals               |         |
