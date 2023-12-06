@@ -1,5 +1,5 @@
 s,b,*L=map(str.split,open(0))
-a=[*map(int,s[1:])]
+*a,=map(int,s[1:])
 c=[]
 for l in L:
  if len(l)<3:a+=c;c=[];continue
