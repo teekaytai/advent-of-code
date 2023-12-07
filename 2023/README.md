@@ -2,7 +2,7 @@ Python is easily my strongest programming language, so for an extra challenge I'
 
 |      Day      |                      Golf Sizes (bytes)                      | Tags                                                  | Remarks                                                                |
 |:-------------:|:------------------------------------------------------------:|-------------------------------------------------------|------------------------------------------------------------------------|
-| [1](Day%2001) | [70](Day%2001/golf_part1.py), [188](Day%2001/golf_part2.py)  | Brute Force, Rabin Karp                               |                                                                        |
+| [1](Day%2001) | [69](Day%2001/golf_part1.py), [188](Day%2001/golf_part2.py)  | Brute Force, Rabin Karp                               |                                                                        |
 | [2](Day%2002) | [117](Day%2002/golf_part1.py), [136](Day%2002/golf_part2.py) | Parsing, Regex                                        |                                                                        |
 | [3](Day%2003) | [215](Day%2003/golf_part1.py), [300](Day%2003/golf_part2.py) | 2D Array                                              |                                                                        |
 | [4](Day%2004) | [63](Day%2004/golf_part1.py), [114](Day%2004/golf_part2.py)  | DP                                                    | Really like how *simple* the golf solution for part 1 turned out to be |
