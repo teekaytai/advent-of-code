@@ -5,6 +5,6 @@ s=[u for u in d if'B'>u[2]]
 p=1
 for c in s:
  i=0
- while'Z'>c[2]:c=d[c][a[i%(len(a)-1)]>'Q'];i+=1
+ while'Z'>c[2]:c=d[c][a[i%~-len(a)]>'Q'];i+=1
  p=math.lcm(p,i)
 print(p)
