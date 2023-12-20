@@ -8,7 +8,17 @@ Python is easily my strongest programming language, so for an extra challenge I'
 | [4](Day%2004) | [63](Day%2004/golf_part1.py), [114](Day%2004/golf_part2.py) | DP | Really like how *simple* the golf solution for part 1 turned out to be |
 | [5](Day%2005) | [189](Day%2005/golf_part1.py), [292](Day%2005/golf_part2.py) | Intervals | |
 | [6](Day%2006) | [105](Day%2006/golf_part1.py), [88](Day%2006/golf_part2.py) | Brute Force, Binary Search, Peak Finding, Mathematics | |
-| [7](Day%2007) | [222](Day%2007/golf_part1.py), [276](Day%2007/golf_part2.py) | Greedy, Horner's Method | Super proud of how the card scoring functions turned out (especially the golfed ones 😈) |
+| [7](Day%2007) | [222](Day%2007/golf_part1.py), [276](Day%2007/golf_part2.py) | Sorting, Greedy, Horner's Method | Super proud of how the card scoring functions turned out (especially the golfed ones 😈) |
 | [8](Day%2008) | [130](Day%2008/golf_part1.py), [199](Day%2008/golf_part2.py) | Mathematics | |
 | [9](Day%2009) | [103](Day%2009/golf_part1.py), [102](Day%2009/golf_part2.py) | Mathematics, Method of Finite Differences | I've got a solution which estimates the answer by using NumPy to approximate the polynomials that produce the given sequences. I've also written a solution which directly calculates the answers with an explicit formula involving binomial coefficients |
 | [10](Day%2010) | [296](Day%2010/golf_part1.py), [372](Day%2010/golf_part2.py) | BFS, Ray Casting Algorithm, Jordan Curve Theorem | Realizing that I can flatten the grid into 1D to access elements with a single index saved more than 100 characters! Absolutely nuts |
+| [11](Day%2011) | WIP | Prefix Sums | |
+| [12](Day%2012) | WIP | DP | |
+| [13](Day%2013) | WIP | Palindrome, Bitmasks | |
+| [14](Day%2014) | WIP | Hashing, Simulation | |
+| [15](Day%2015) | WIP | Hashing, OOP | |
+| [16](Day%2016) | WIP | DFS/BFS, Simulation | |
+| [17](Day%2017) | WIP | Dijkstra | |
+| [18](Day%2018) | WIP | Flood Fill, Sweep Line, Intervals, Shoelace Formula, Pick's Theorem | If I had known about the Shoelace formula beforehand, this would have been way easier... On the bright side, I can now confirm that an alternative solution using a sweep line algorithm exists |
+| [19](Day%2019) | WIP | DFS/BFS, Intervals, OOP | OOP is... long |
+| [20](Day%2020) | WIP | BFS, Simulation, Reverse Engineering, Mathematics, OOP | Very long |
