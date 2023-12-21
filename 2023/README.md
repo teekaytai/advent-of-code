@@ -22,3 +22,4 @@ Python is easily my strongest programming language, so for an extra challenge I'
 | [18](Day%2018) | WIP | Flood Fill, Sweep Line, Intervals, Shoelace Formula, Pick's Theorem | If I had known about the Shoelace formula beforehand, this would have been way easier... On the bright side, I can now confirm that an alternative solution using a sweep line algorithm exists |
 | [19](Day%2019) | WIP | DFS/BFS, Intervals, OOP | OOP is... long |
 | [20](Day%2020) | WIP | BFS, Simulation, Reverse Engineering, Mathematics, OOP | Very long |
+| [21](Day%2021) | WIP | BFS, Mathematics | |
