@@ -23,3 +23,4 @@ Python is easily my strongest programming language, so for an extra challenge I'
 | [19](Day%2019) | WIP | DFS/BFS, Intervals, OOP | OOP is... long |
 | [20](Day%2020) | WIP | BFS, Simulation, Reverse Engineering, Mathematics, OOP | Very long |
 | [21](Day%2021) | WIP | BFS, Mathematics | |
+| [22](Day%2022) | WIP | DP, Simulation | |
