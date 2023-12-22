@@ -12,7 +12,7 @@ Python is easily my strongest programming language, so for an extra challenge I'
 | [8](Day%2008) | [130](Day%2008/golf_part1.py), [199](Day%2008/golf_part2.py) | Mathematics | |
 | [9](Day%2009) | [103](Day%2009/golf_part1.py), [102](Day%2009/golf_part2.py) | Mathematics, Method of Finite Differences | I've got a solution which estimates the answer by using NumPy to approximate the polynomials that produce the given sequences. I've also written a solution which directly calculates the answers with an explicit formula involving binomial coefficients |
 | [10](Day%2010) | [296](Day%2010/golf_part1.py), [372](Day%2010/golf_part2.py) | BFS, Ray Casting Algorithm, Jordan Curve Theorem | Realizing that I can flatten the grid into 1D to access elements with a single index saved more than 100 characters! Absolutely nuts |
-| [11](Day%2011) | WIP | Prefix Sums | |
+| [11](Day%2011) | [205](Day%2011/golf_part1.py), [212](Day%2011/golf_part2.py) | Prefix Sums | |
 | [12](Day%2012) | WIP | DP | |
 | [13](Day%2013) | WIP | Palindrome, Bitmasks | |
 | [14](Day%2014) | WIP | Hashing, Simulation | |
