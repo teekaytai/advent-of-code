@@ -25,3 +25,4 @@ Python is easily my strongest programming language, so for an extra challenge I'
 | [21](Day%2021) | WIP | BFS, Mathematics | |
 | [22](Day%2022) | WIP | DP, Simulation | |
 | [23](Day%2023) | WIP | NP-hard, Brute Force, DP, Bitmasks, DFS/BFS, Graph Construction | Gave optimising this one a go and got part 2 down to ~0.7s in pypy3, which by Python standards I believe is great! Interestingly, the solution using DP explores ~60% less states and yet takes about twice as long |
+| [24](Day%2024) | WIP | Mathematics, Computational Geometry | |
