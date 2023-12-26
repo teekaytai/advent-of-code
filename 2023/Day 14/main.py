@@ -34,7 +34,7 @@ print(compute_load(tilt_north(grid)))
 
 # Part 2
 # Map grids to the step number it was seen at
-grid_history: dict[int, int] = {}
+grid_history: dict[tuple[tuple[int, ...]], int] = {}
 steps_left = NUM_SPIN_CYCLES
 while steps_left:
     # Make grid immutable for hashing
