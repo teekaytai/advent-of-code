@@ -15,7 +15,7 @@ Python is easily my strongest programming language, so for an extra challenge I'
 | [11](Day%2011) | [205](Day%2011/golf_part1.py), [212](Day%2011/golf_part2.py) | Prefix Sums | |
 | [12](Day%2012) | [224](Day%2012/golf_part1.py), [273](Day%2012/golf_part2.py) | DP, Suffix Sums | |
 | [13](Day%2013) | [168](Day%2013/golf_part1.py), [200](Day%2013/golf_part2.py) | Palindromes, Bitmasks, Manacher's | |
-| [14](Day%2014) | WIP | Hashing, Simulation | |
+| [14](Day%2014) | [101](Day%2014/golf_part1.py), [245](Day%2014/golf_part2.py) | Hashing, Simulation | |
 | [15](Day%2015) | WIP | Hashing, OOP | |
 | [16](Day%2016) | WIP | DFS/BFS, Simulation | |
 | [17](Day%2017) | WIP | Dijkstra | |
