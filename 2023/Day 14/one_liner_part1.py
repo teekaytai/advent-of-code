@@ -1,0 +1,1 @@
+print(sum(sum((b:=s>'N')*(p:=[p,c:=c-1][s<'.']-b)for s in R)for R in zip(*open(0))if(c:=(p:=len(R)+1))))
