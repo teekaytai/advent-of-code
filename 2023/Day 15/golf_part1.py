@@ -1,0 +1,1 @@
+print(sum((h:=0)*[h:=17*(h+ord(c))for c in s]or h%256for s in input().split(',')))
