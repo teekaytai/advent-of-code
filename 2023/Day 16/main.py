@@ -42,7 +42,7 @@ def find_num_energized(start_row: int, start_col: int, start_dir: Dir) -> int:
     stack = [start_state]
     while stack:
         r, c, d = stack.pop()
-        next_states: list[tuple[int, int, int]]
+        next_states: list[tuple[int, int, Dir]]
         cell = grid[r][c]
         if cell == '/':
             next_states = [move(r, c, reflect_front_slash(d))]
