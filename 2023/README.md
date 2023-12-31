@@ -17,7 +17,7 @@ Python is easily my strongest programming language, so for an extra challenge I'
 | [13](Day%2013) | [168](Day%2013/golf_part1.py), [200](Day%2013/golf_part2.py) | Palindromes, Bitmasks, Manacher's | |
 | [14](Day%2014) | [101](Day%2014/golf_part1.py), [245](Day%2014/golf_part2.py) | Hashing, Simulation | |
 | [15](Day%2015) | [82](Day%2015/golf_part1.py), [178](Day%2015/golf_part2.py) | Hashing, OOP | Part 1's got 2 equally good one-liner golf solutions |
-| [16](Day%2016) | WIP | DFS/BFS, Simulation | |
+| [16](Day%2016) | [261](Day%2016/golf_part1.py), [356](Day%2016/golf_part2.py) | DFS/BFS, Simulation | Would I make my code run 10 times slower, just so I can save 20 characters? Of course I would. I'd do it for just 1 character even... as long as it doesn't become *too* slow. Be warned that part 2's golf solution takes about 16s to run in pypy3 |
 | [17](Day%2017) | WIP | Dijkstra | |
 | [18](Day%2018) | WIP | Flood Fill, Sweep Line, Intervals, Shoelace Formula, Pick's Theorem | If I had known about the Shoelace formula beforehand, this would have been way easier... On the bright side, I can now confirm that an alternative solution using a sweep line algorithm exists |
 | [19](Day%2019) | WIP | DFS/BFS, Intervals, OOP | OOP is... long |
