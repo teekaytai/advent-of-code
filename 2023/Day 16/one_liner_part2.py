@@ -1,0 +1,1 @@
+g=open(0).read();W=g.index('\n')+1;f=lambda s:[q:=[s],[[m:=lambda*D:[(z+d,d)for d in D],q.extend(p for p in[m(-1,1),*[m(d)]*4,m(-W,W),m(d//-W),m(d*-W),m(d//W),m(d*W)]['-.|/'.find(g[z])*2+d*d%W]if(W*W-W>p[0]>=0and' '<g[p[0]])*~-(p in q))]for z,d in q],len({z for z,_ in q})][2];print(max(max(map(f,zip([W*W-W-i-2,W*i,i,W*i+W-2],[-W,1,W,-1])))for i in range(W-1)))
