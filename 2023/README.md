@@ -1,5 +1,13 @@
 Python is easily my strongest programming language, so for an extra challenge I'll make golf solutions in addition to writing proper, clean solutions for each day. Where possible, I'll also try solving problems in more *interesting* ways.
 
+Some notes about my golf solutions:
+* All golf solutions take input via stdin and print out the answer in stdout. So if you have the input in a file called `input.txt`, you can run the solution in bash/zsh using `python golf_part_x.py < input.txt`
+* All solutions accept the input from the website as is without needing any manual preprocessing
+* I'm avoiding using any third party libraries
+* A few solutions rely on the input having Unix line endings (`'\n'`), not Windows line endings (`'\r\n'`)
+* A few solutions rely on there being a newline character at the end of the input
+* Yes those abominations really do run, and give the correct answers
+
 | Day | Golf Sizes (bytes) | Tags | Remarks |
 |:---:|:------------------:|------|---------|
 | [1](Day%2001) | [69](Day%2001/golf_part1.py), [188](Day%2001/golf_part2.py) | Brute Force, Rabin Karp | |
