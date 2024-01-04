@@ -28,7 +28,7 @@ Some notes about my golf solutions:
 | [16](Day%2016) | [258](Day%2016/golf_part1.py), [353](Day%2016/golf_part2.py) | DFS/BFS, Simulation, Condensation Graphs, Kosaraju's Algorithm, DP | Would I make my code run 10 times slower, just so I can save 20 characters? Of course I would. I'd do it for just 1 character even... as long as it doesn't become *too* slow. Be warned that part 2's golf solution takes about 16s to run in pypy3. More interested in something fast? Then have a look at the solution using DP and Kosaraju's algorithm for finding strongly connected components |
 | [17](Day%2017) | [278](Day%2017/golf_part1.py), [290](Day%2017/golf_part2.py) | Dijkstra, A* Search | |
 | [18](Day%2018) | [120](Day%2018/golf_part1.py), [121](Day%2018/golf_part2.py) | Flood Fill, Sweep Line, Intervals, Shoelace Formula, Pick's Theorem | If I had known about the Shoelace formula beforehand, this would have been way easier... On the bright side, I can now confirm that an alternative solution using a sweep line algorithm exists |
-| [19](Day%2019) | WIP | DFS/BFS, Intervals, OOP | OOP is... long |
+| [19](Day%2019) | [257](Day%2019/golf_part1.py), [345](Day%2019/golf_part2.py) | DFS/BFS, Intervals, OOP | OOP is... long |
 | [20](Day%2020) | WIP | BFS, Simulation, Reverse Engineering, Mathematics, OOP | Very long |
 | [21](Day%2021) | WIP | BFS, Mathematics | |
 | [22](Day%2022) | WIP | DP, Simulation | |
