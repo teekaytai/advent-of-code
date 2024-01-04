@@ -24,6 +24,14 @@ class Module(ABC):
         self.src_modules: list[Module] = []
         self.dst_modules: list[Module] = []
 
+    @staticmethod
+    def parse_and_make_module(module_str: str) -> tuple[str, 'Module']:
+        if module_str.startswith(FLIP_FLOP_PREFIX):
+            return module_str.lstrip(FLIP_FLOP_PREFIX), FlipFlopModule()
+        elif module_str.startswith(CONJUNCTION_PREFIX):
+            return module_str.lstrip(CONJUNCTION_PREFIX), ConjunctionModule()
+        return module_str, BroadcastModule()
+
     def connect_to(self, module: 'Module') -> None:
         self.dst_modules.append(module)
         module._connect_from(self)
@@ -98,7 +106,7 @@ class Machine:
         dsts_names: list[list[str]] = []
         for line in config.splitlines():
             src, dsts = line.split(' -> ')
-            src, module = self._parse_and_make_module(src)
+            src, module = Module.parse_and_make_module(src)
             self.modules[src] = module
             src_names.append(src)
             dsts_names.append(dsts.split(', '))
@@ -107,13 +115,6 @@ class Machine:
             for dst in dst_lst:
                 dst_module = self.modules[dst]
                 src_module.connect_to(dst_module)
-
-    def _parse_and_make_module(self, module_str: str) -> tuple[str, Module]:
-        if module_str.startswith(FLIP_FLOP_PREFIX):
-            return module_str.lstrip(FLIP_FLOP_PREFIX), FlipFlopModule()
-        elif module_str.startswith(CONJUNCTION_PREFIX):
-            return module_str.lstrip(CONJUNCTION_PREFIX), ConjunctionModule()
-        return module_str, BroadcastModule()
 
     def reset(self) -> None:
         for module in self.modules.values():
