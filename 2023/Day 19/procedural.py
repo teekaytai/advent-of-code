@@ -1,4 +1,4 @@
-# Reject OOP, return to Imperative
+# Reject OOP, return to Procedural
 from math import prod
 import sys
 
