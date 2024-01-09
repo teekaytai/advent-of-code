@@ -31,7 +31,7 @@ Some notes about my golf solutions:
 | [19](Day%2019) | [257](Day%2019/golf_part1.py), [345](Day%2019/golf_part2.py) | DFS/BFS, Intervals, OOP | OOP is... long |
 | [20](Day%2020) | [357](Day%2020/golf_part1.py), [196](Day%2020/golf_part2.py) | BFS, Simulation, Reverse Engineering, Mathematics, OOP | Very long |
 | [21](Day%2021) | [109](Day%2021/golf_part1.py), [169](Day%2021/golf_part2.py) | BFS, Mathematics | |
-| [22](Day%2022) | WIP | DP, Simulation | |
+| [22](Day%2022) | [277](Day%2022/golf_part1.py), [268](Day%2022/golf_part2.py) | DP, Simulation | |
 | [23](Day%2023) | WIP | NP-hard, Brute Force, DP, Bitmasks, DFS/BFS, Graph Construction | Gave optimising this one a go and got part 2 down to ~0.7s in pypy3, which by Python standards I believe is great! Interestingly, the solution using DP explores ~60% less states and yet takes about twice as long |
 | [24](Day%2024) | WIP | Mathematics, Computational Geometry | |
 | [25](Day%2025) | WIP | Max-Flow Min-Cut, Edmonds-Karp, BFS | Merry Christmas! |
