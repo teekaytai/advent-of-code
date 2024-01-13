@@ -33,5 +33,5 @@ Some notes about my golf solutions:
 | [21](Day%2021) | [109](Day%2021/golf_part1.py), [169](Day%2021/golf_part2.py) | BFS, Mathematics | |
 | [22](Day%2022) | [277](Day%2022/golf_part1.py), [268](Day%2022/golf_part2.py) | DP, Simulation | |
 | [23](Day%2023) | [187](Day%2023/golf_part1.py), [391](Day%2023/golf_part2.py) | NP-hard, Brute Force, DP, Bitmasks, DFS/BFS, Graph Construction | Gave optimising this one a go and got part 2 down to ~0.7s in pypy3, which by Python standards I believe is great! Interestingly, the solution using DP explores ~60% less states and yet takes about twice as long |
-| [24](Day%2024) | WIP | Mathematics, Computational Geometry, Linear Algebra | |
+| [24](Day%2024) | [204](Day%2024/golf_part1.py), [259](Day%2024/golf_part2.py) | Mathematics, Computational Geometry, Linear Algebra | |
 | [25](Day%2025) | WIP | Max-Flow Min-Cut, Edmonds-Karp, BFS | Merry Christmas! |
