@@ -35,3 +35,17 @@ Some notes about my golf solutions:
 | [23](Day%2023) | [187](Day%2023/golf_part1.py), [391](Day%2023/golf_part2.py) | NP-hard, Brute Force, DP, Bitmasks, DFS/BFS, Graph Construction | Gave optimising this one a go and got part 2 down to ~0.7s in pypy3, which by Python standards I believe is great! Interestingly, the solution using DP explores ~60% less states and yet takes about twice as long |
 | [24](Day%2024) | [204](Day%2024/golf_part1.py), [259](Day%2024/golf_part2.py) | Mathematics, Computational Geometry, Linear Algebra | |
 | [25](Day%2025) | [338](Day%2025/golf.py) | Max-Flow Min-Cut, Edmonds-Karp, Stoer-Wagner | Merry Christmas! |
+
+### Golf Solution Statistics
+
+|       |       |
+|:------|------:|
+| count |    49 |
+| mean  |   204 |
+| std   |    84 |
+| min   |    63 |
+| 25%   |   121 |
+| 50%   |   200 |
+| 75%   |   268 |
+| max   |   391 |
+| total | 10018 |
