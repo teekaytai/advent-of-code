@@ -16,7 +16,7 @@ Some notes about my golf solutions:
 | [4](Day%2004) | [63](Day%2004/golf_part1.py), [114](Day%2004/golf_part2.py) | DP | Really like how *simple* the golf solution for part 1 turned out to be |
 | [5](Day%2005) | [189](Day%2005/golf_part1.py), [292](Day%2005/golf_part2.py) | Intervals | |
 | [6](Day%2006) | [105](Day%2006/golf_part1.py), [88](Day%2006/golf_part2.py) | Brute Force, Binary Search, Peak Finding, Mathematics | |
-| [7](Day%2007) | [222](Day%2007/golf_part1.py), [276](Day%2007/golf_part2.py) | Sorting, Greedy, Horner's Method | Super proud of how the card scoring functions turned out (especially the golfed ones 😈) |
+| [7](Day%2007) | [222](Day%2007/golf_part1.py), [276](Day%2007/golf_part2.py) | Sorting, Greedy, Horner's Method | Super proud of how the card scoring functions turned out (especially the golfed ones) |
 | [8](Day%2008) | [130](Day%2008/golf_part1.py), [199](Day%2008/golf_part2.py) | Mathematics | |
 | [9](Day%2009) | [103](Day%2009/golf_part1.py), [102](Day%2009/golf_part2.py) | Mathematics, Method of Finite Differences | I've got a solution which estimates the answer by using NumPy to approximate the polynomials that produce the given sequences. I've also written a solution which directly calculates the answers with an explicit formula involving binomial coefficients |
 | [10](Day%2010) | [245](Day%2010/golf_part1.py), [290](Day%2010/golf_part2.py) | BFS/DFS, Ray Casting Algorithm, Jordan Curve Theorem, Shoelace Formula, Pick's Theorem | Realizing that I can flatten the grid into 1D to access elements with a single index saved more than 100 characters! Absolutely nuts.<br>UPDATE: Unsurprisingly, the shoelace formula helped shorten the golf solution for part 2 even further. I've kept the old solution around too since it'd be a shame to get rid of it after all the time I'd already sunk into it... The enclosed-tile-counting logic fits in one line! |
@@ -34,4 +34,4 @@ Some notes about my golf solutions:
 | [22](Day%2022) | [277](Day%2022/golf_part1.py), [268](Day%2022/golf_part2.py) | DP, Simulation | |
 | [23](Day%2023) | [187](Day%2023/golf_part1.py), [391](Day%2023/golf_part2.py) | NP-hard, Brute Force, DP, Bitmasks, DFS/BFS, Graph Construction | Gave optimising this one a go and got part 2 down to ~0.7s in pypy3, which by Python standards I believe is great! Interestingly, the solution using DP explores ~60% less states and yet takes about twice as long |
 | [24](Day%2024) | [204](Day%2024/golf_part1.py), [259](Day%2024/golf_part2.py) | Mathematics, Computational Geometry, Linear Algebra | |
-| [25](Day%2025) | WIP | Max-Flow Min-Cut, Edmonds-Karp, BFS | Merry Christmas! |
+| [25](Day%2025) | [338](Day%2025/golf.py) | Max-Flow Min-Cut, Edmonds-Karp, BFS | Merry Christmas! |
