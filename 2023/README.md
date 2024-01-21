@@ -29,7 +29,7 @@ Some notes about my golf solutions:
 | [17](Day%2017) | [278](Day%2017/golf_part1.py), [290](Day%2017/golf_part2.py) | Dijkstra, A* Search | |
 | [18](Day%2018) | [120](Day%2018/golf_part1.py), [121](Day%2018/golf_part2.py) | Flood Fill, Sweep Line, Intervals, Shoelace Formula, Pick's Theorem | If I had known about the Shoelace formula beforehand, this would have been way easier... On the bright side, I can now confirm that an alternative solution using a sweep line algorithm exists |
 | [19](Day%2019) | [257](Day%2019/golf_part1.py), [343](Day%2019/golf_part2.py) | DFS/BFS, Intervals, OOP | OOP is... long |
-| [20](Day%2020) | [357](Day%2020/golf_part1.py), [196](Day%2020/golf_part2.py) | BFS, Simulation, Reverse Engineering, Mathematics, OOP | Very long |
+| [20](Day%2020) | [355](Day%2020/golf_part1.py), [196](Day%2020/golf_part2.py) | BFS, Simulation, Reverse Engineering, Mathematics, OOP | Very long |
 | [21](Day%2021) | [109](Day%2021/golf_part1.py), [169](Day%2021/golf_part2.py) | BFS, Mathematics | |
 | [22](Day%2022) | [277](Day%2022/golf_part1.py), [268](Day%2022/golf_part2.py) | DP, Simulation | |
 | [23](Day%2023) | [187](Day%2023/golf_part1.py), [391](Day%2023/golf_part2.py) | NP-hard, Brute Force, DP, Bitmasks, DFS/BFS, Graph Construction | Gave optimising this one a go and got part 2 down to ~0.7s in pypy3, which by Python standards I believe is great! Interestingly, the solution using DP explores ~60% less states and yet takes about twice as long |
