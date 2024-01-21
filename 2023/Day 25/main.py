@@ -11,8 +11,7 @@ def find_augmenting_path(
     source: str,
     sink: str,
 ) -> tuple[int, dict[str, str]]:
-    parents: dict[str, str] = {}
-    parents[source] = source
+    parents: dict[str, str] = {source: source}
     queue: deque[tuple[str, int]] = deque([(source, INF)])
     while queue:
         u, flow = queue.popleft()
@@ -70,5 +69,5 @@ for line in sys.stdin:
         adj_list[u].append(v)
         adj_list[v].append(u)
 
-source_cut, sink_cut = find_min_cut_with_size(adj_list, 3)
+source_cut, sink_cut = find_min_cut_with_size(adj_list, CUT_SIZE)
 print(len(source_cut) * len(sink_cut))
