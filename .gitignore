@@ -4,3 +4,4 @@ cmake-build-debug/
 *.iml
 *.txt
 !sample_input*.txt
+_build/
