@@ -6,3 +6,4 @@ There will also be hastily written (read: poorly written) Python solutions lying
 |:----------:|------------------|
 | [1](Day01) | Sorting, Hashmap |
 | [2](Day02) | Brute force      |
+| [3](Day03) | Regex            |
