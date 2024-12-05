@@ -8,3 +8,4 @@ There will also be hastily written (read: poorly written) Python solutions lying
 | [2](Day02) | Brute force      |                                                                                      |
 | [3](Day03) | Regex            |                                                                                      |
 | [4](Day04) | 2D Array, Regex  | [Regex](Day04/regex.py) is a pathway to many abilities some consider to be unnatural |
+| [5](Day05) | Hashmap, Sorting |                                                                                      |
