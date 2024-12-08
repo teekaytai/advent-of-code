@@ -11,3 +11,4 @@ There will also be hastily written (read: poorly written) Python solutions lying
 | [5](Day05) | Hashing, Sorting                    |                                                                                      |
 | [6](Day06) | 2D Array, Simulation, Set           | May have overengineered this one just a wee bit                                      |
 | [7](Day07) | Brute force, Higher-order functions | Perfect problem for functional programming, very satisfying!                         |
+| [8](Day08) | Brute force, Geometry, Hashing      |                                                                                      |
