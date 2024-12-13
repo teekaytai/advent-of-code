@@ -15,4 +15,5 @@ There will also be hastily written (read: poorly written) Python solutions lying
 | [9](Day09)  | Two pointers, Priority queue        |                                                                                                               |
 | [10](Day10) | BFS/DFS, DAG                        | Counting paths in a DAG. Would need DP if grid and trail lengths were larger                                  |
 | [11](Day11) | Memoization, DP                     | Another good day for FP. The solution is literally just do what the problem says, then slap a cache on it!    |
-| [12](Day12) | Flood Fill                          | Really happy to find a short, sweet way to count sides correctly. Might even be easier than counting corners! |
+| [12](Day12) | Flood Fill, Geometry                | Really happy to find a short, sweet way to count sides correctly. Might even be easier than counting corners! |
+| [13](Day13) | Mathematics, Linear algebra         |                                                                                                               |
