@@ -18,3 +18,4 @@ There will also be hastily written (read: poorly written) Python solutions lying
 | [12](Day12) | Flood Fill, Geometry | Really happy to find a short, sweet way to count sides correctly. Might even be easier than counting corners! |
 | [13](Day13) | Mathematics, Linear Algebra | |
 | [14](Day14) | Simulation, Investigation, Statistics, Chinese Remainder Theorem | Getting jumpscared by a tree in my terminal was not on my bingo card, and I love it |
+| [15](Day15) | Simulation, BFS/DFS, Topological Sort, Sokoban | |
