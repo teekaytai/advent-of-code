@@ -19,3 +19,4 @@ There will also be hastily written (read: poorly written) Python solutions lying
 | [13](Day13) | Mathematics, Linear Algebra | |
 | [14](Day14) | Simulation, Investigation, Statistics, Chinese Remainder Theorem | Getting jumpscared by a tree in my terminal was not on my bingo card, and I love it |
 | [15](Day15) | Simulation, BFS/DFS, Topological Sort, Sokoban | |
+| [16](Day16) | Dijkstra, DP | |
