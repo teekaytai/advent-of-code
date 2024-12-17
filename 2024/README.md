@@ -20,3 +20,4 @@ There will also be hastily written (read: poorly written) Python solutions lying
 | [14](Day14) | Simulation, Investigation, Statistics, Chinese Remainder Theorem | Getting jumpscared by a tree in my terminal was not on my bingo card, and I love it |
 | [15](Day15) | Simulation, BFS/DFS, Topological Sort, Sokoban | |
 | [16](Day16) | Dijkstra, DP | |
+| [17](Day17) | Simulation, Reverse Engineering, Bitwise Operations, Recursive Backtracking | Part 2 was really fun to figure out! |
