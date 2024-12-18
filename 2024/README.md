@@ -21,3 +21,4 @@ There will also be hastily written (read: poorly written) Python solutions lying
 | [15](Day15) | Simulation, BFS/DFS, Topological Sort, Sokoban | |
 | [16](Day16) | Dijkstra, DP | |
 | [17](Day17) | Simulation, Reverse Engineering, Bitwise Operations, Recursive Backtracking | Part 2 was really fun to figure out! |
+| [18](Day18) | BFS, Binary Search, Disjoint Set Union | |
