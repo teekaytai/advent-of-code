@@ -23,3 +23,4 @@ There will also be hastily written (read: poorly written) Python solutions lying
 | [17](Day17) | Simulation, Reverse Engineering, Bitwise Operations, Recursive Backtracking | Part 2 was really fun to figure out! |
 | [18](Day18) | BFS, Binary Search, Disjoint Set Union | Seems like there's lots of different ways to solve part 2 |
 | [19](Day19) | DP, Strings, Higher-order Functions | Had fun abstracting the logic for both parts into a single higher order function |
+| [20](Day20) | BFS/DFS, Precomputation, Brute Force | |
