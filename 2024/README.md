@@ -24,3 +24,4 @@ There will also be hastily written (read: poorly written) Python solutions lying
 | [18](Day18) | BFS, Binary Search, Disjoint Set Union | Seems like there's lots of different ways to solve part 2 |
 | [19](Day19) | DP, Strings, Higher-order Functions | Had fun abstracting the logic for both parts into a single higher order function |
 | [20](Day20) | BFS/DFS, Precomputation, Brute Force | |
+| [21](Day21) | DP, Matrix Exponentiation | Once I realised the optimal paths to take between buttons is always fixed, I could express the the change in moves required by a robot one level higher as a transition matrix. Using binary exponentiation, this gives an O(log n) solution! |
