@@ -26,3 +26,4 @@ There will also be hastily written (read: poorly written) Python solutions lying
 | [20](Day20) | BFS/DFS, Precomputation, Brute Force | |
 | [21](Day21) | DP, Matrix Exponentiation | Once I realised the optimal paths to take between buttons is always fixed, I could express the the change in moves required by a robot one level higher as a transition matrix. Using binary exponentiation, this gives an O(log n) solution! |
 | [22](Day22) | Rolling Hash, Brute Force | |
+| [23](Day23) | NP-hard, Recursive Backtracking, Bron–Kerbosch Algorithm | |
