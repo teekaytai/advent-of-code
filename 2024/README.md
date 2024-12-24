@@ -27,3 +27,4 @@ There will also be hastily written (read: poorly written) Python solutions lying
 | [21](Day21) | DP, Matrix Exponentiation | Once I realised the optimal paths to take between buttons is always fixed, I could express the the change in moves required by a robot one level higher as a transition matrix. Using binary exponentiation, this gives an O(log n) solution! |
 | [22](Day22) | Rolling Hash, Brute Force | |
 | [23](Day23) | NP-hard, Recursive Backtracking, Bron–Kerbosch Algorithm | |
+| [24](Day24) | Topological Sort, DP, Reverse Engineering, Ripple Carry Adder | Finally got into the top-100 for a day this year! Stared at the graph until it caved and revealed all its secrets. Shout out to GraphViz for making [visualisations](Day24/visualisation.svg). Also wrote automated solutions for part 2 afterwards of course |
