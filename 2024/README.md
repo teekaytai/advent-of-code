@@ -28,3 +28,4 @@ There will also be hastily written (read: poorly written) Python solutions lying
 | [22](Day22) | Rolling Hash, Brute Force | |
 | [23](Day23) | NP-hard, Recursive Backtracking, Bron–Kerbosch Algorithm | |
 | [24](Day24) | Topological Sort, DP, Reverse Engineering, Ripple Carry Adder | Finally got into the top-100 for a day this year! Stared at the graph until it caved and revealed all its secrets. Shout out to GraphViz for making [visualisations](Day24/visualisation.svg). Also wrote automated solutions for part 2 afterwards of course |
+| [25](Day25) | Brute Force | Merry Christmas! |
