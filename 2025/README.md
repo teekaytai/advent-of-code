@@ -6,3 +6,4 @@ Time to find out why people like Rust so much 👀
 | [2](day02)  | Brute Force | |
 | [3](day03)  | DP | |
 | [4](day04)  | 2D Array, BFS/DFS | |
+| [5](day05)  | Sorting, Intervals | |
