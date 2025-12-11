@@ -8,3 +8,4 @@ My solutions to the puzzles in [Advent of Code](https://adventofcode.com/).
 | 2022 |           C++           |
 | 2023 | Python 3, Python 3 Golf |
 | 2024 |     OCaml, Python 3     |
+| 2025 |      Rust, Python 3     |
