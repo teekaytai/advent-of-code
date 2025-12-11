@@ -9,3 +9,4 @@ Time to find out why people like Rust so much 👀
 | [5](day05)  | Sorting, Intervals | |
 | [6](day06)  | Parsing, Maths | |
 | [7](day07)  | DP, Counting | |
+| [8](day08)  | Minimum Spanning Tree, Kruskal's Algorithm | |
