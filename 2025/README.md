@@ -7,3 +7,4 @@ Time to find out why people like Rust so much 👀
 | [3](day03)  | DP | |
 | [4](day04)  | 2D Array, BFS/DFS | |
 | [5](day05)  | Sorting, Intervals | |
+| [6](day06)  | Parsing, Maths | |
