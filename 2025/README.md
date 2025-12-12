@@ -10,3 +10,4 @@ Time to find out why people like Rust so much 👀
 | [6](day06)  | Parsing, Maths | |
 | [7](day07)  | DP, Counting | |
 | [8](day08)  | Minimum Spanning Tree, Kruskal's Algorithm | |
+| [9](day09)  | Ray Casting Algorithm, Discretization, 2D Prefix Sums | |
