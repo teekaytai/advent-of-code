@@ -11,6 +11,6 @@ Time to find out why people like Rust so much 👀
 | [7](day07)  | DP, Counting | |
 | [8](day08)  | Minimum Spanning Tree, Kruskal's Algorithm, Disjoint Set Union | Feels good to be able to mix code from different paradigms in Rust, e.g. functional programming, procedural programming, a little OOP |
 | [9](day09)  | Ray Casting Algorithm, Coordinate Compression, 2D Prefix Sums | Challenging problem, especially if you want to solve it efficiently and correctly handle edge cases |
-| [10](day10)  | Bitmasks, Gauss-Jordan Elimination | |
-| [11](day11)  | Topological Sort, BFS/DFS, DP | |
-| [12](day12)  | Brute Force, Bitmasks, Pruning | |
+| [10](day10) | Divide & Conquer, Top-down DP, Recursive Backtracking, Bitmasks, Gauss-Jordan Elimination, OOP | Another toughie. The obvious linalg solution is tedious to implement (by hand), while the graceful solution is harder to spot. Got a bunch more practice using different Rust features though, which was satisfying |
+| [11](day11) | Topological Sort, BFS/DFS, DP | |
+| [12](day12) | Brute Force, Bitmasks, Pruning | |
